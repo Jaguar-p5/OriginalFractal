@@ -7,7 +7,6 @@ frameRate(111);
 }
 float f = 1 ;
 void draw(){
-   System.out.println(frameRate);
  background(0);
  fib(0, height, 1000);
  f *= 1.01;
