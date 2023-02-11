@@ -1,11 +1,9 @@
-void settings(){
+void start(){
   size(500,500);
 
 }
 
-void start(){
 
-}
 float f = 1 ;
 void draw(){
  background(0);
