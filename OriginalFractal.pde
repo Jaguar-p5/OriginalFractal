@@ -6,7 +6,7 @@ void start(){
 
 float f = 1 ;
 void draw(){
- background(0);
+ background(255);
  fib(0, height, 1000);
  f *= 1.01;
  if(f>=2) f = 1;
