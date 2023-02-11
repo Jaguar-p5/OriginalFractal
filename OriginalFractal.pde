@@ -3,7 +3,7 @@ void settings(){
 
 }
 void start(){
-frameRate(111);
+
 }
 float f = 1 ;
 void draw(){
